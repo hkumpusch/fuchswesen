@@ -1,7 +1,7 @@
-# Webalizer V2.21-02 Incremental Data - 03/16/2015 03:52:02
-2015 3 16 3 52 2
-8185 5963 105 29 21 48 31742988 6227 347 0
-3 13 437 1 16
+# Webalizer V2.21-02 Incremental Data - 03/25/2015 03:51:36
+2015 3 25 3 51 36
+12195 9158 140 34 25 64 51200990 9498 544 0
+4 15 437 1 25
 317 295 136864 15 310 22
 308 293 18175 7 306 19
 356 298 157596 9 342 20
@@ -17,50 +17,50 @@
 525 420 2884288 18 379 30
 361 323 544723 15 318 22
 348 321 668224 12 315 20
-50 48 2603 3 50 4
+828 502 3683341 13 544 26
+724 456 6322874 9 479 23
+366 324 2266796 10 326 20
+368 340 2800479 10 319 18
+357 333 1714934 15 322 24
+331 301 455450 10 318 23
+341 324 1613961 12 318 25
+350 312 431420 15 320 24
+342 301 148292 11 325 23
+53 50 23058 4 50 4
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-224 211 279942 209
-217 200 25363 216
-197 196 120958 195
-215 195 128695 209
-194 182 4220 194
-227 196 321086 206
-204 193 144771 195
-220 189 28050 209
-192 187 16824 189
-254 208 953904 218
-239 205 477413 223
-354 241 1394351 323
-234 220 1019835 205
-399 277 2287112 283
-734 417 4789674 441
-915 473 4487762 483
-698 437 5818476 410
-523 329 3813770 354
-303 227 614497 224
-314 225 782353 244
-328 261 1783402 237
-366 261 1725209 271
-411 243 590731 287
-223 190 134590 202
+351 333 679055 324
+340 314 153599 335
+312 307 127927 309
+331 305 150199 322
+305 291 4430 305
+345 304 322556 324
+315 303 151993 306
+351 310 188755 335
+304 298 330376 299
+408 348 3211128 348
+394 330 784195 347
+480 357 2257008 446
+388 360 1558277 326
+736 488 4270491 489
+1189 691 9049581 715
+1265 647 7294083 706
+970 595 8135519 578
+688 462 5083253 491
+422 336 616387 342
+466 356 1932430 374
+455 377 2000428 361
+501 384 1776899 396
+546 364 987831 408
+333 298 134590 312
 0
 0
 0
-5963
+9158
 0
 0
 0
@@ -69,16 +69,16 @@
 0
 0
 1
-274
+394
 0
-1511
-0
-0
+2111
 0
 0
 0
 0
-436
+0
+0
+531
 0
 0
 0
@@ -102,55 +102,65 @@
 /fuchswesen/logo_text.svg
 0 1 0 9779 0 0
 /
-0 4978 0 632794 324 237
+0 7734 0 835823 505 389
+/fuchswesen/unicycle.jpg
+0 1 0 367253 0 0
 /footer.html
-0 170 0 11647 0 3
+0 226 0 16264 1 6
 /fuchswesen/logo_head.gif
-0 8 0 8496 0 0
+0 12 0 11682 0 0
 /bootstrap/css/bootstrap.min.css
-0 111 0 10426350 0 0
+0 153 0 14292300 0 0
 /fuchswesen/ie10-viewport-bug-workaround.js
-0 111 0 63848 0 0
+0 150 0 84668 0 0
+/fuchswesen/imprint_pic.jpg
+0 1 0 206792 0 0
+/fuchswesen/fox_consulting.png
+0 41 0 4724835 0 0
 /bootstrap/fonts/house3009.otf
 0 1 0 29844 0 0
 /consulting.html
-0 91 0 134379 1 2
+0 224 0 422119 5 5
 /contact.html
-0 91 0 86447 2 3
+0 91 0 86447 3 4
 /bootstrap/css/custom.css
-0 705 0 521627 0 0
+0 946 0 738054 0 0
 /fuchswesen/sticky-footer-navbar.css
-0 242 0 87504 0 0
+0 284 0 116676 0 0
 /fuchswesen/fox_head.png
 0 7 0 96019 0 0
 /fuchswesen/logo_schrift.gif
-0 8 0 15088 0 0
+0 12 0 20746 0 0
 /bootstrap/js/bootstrap.min.js
-0 111 0 3261584 0 0
+0 149 0 4289692 0 0
 /fuchswesen/logo_head.png
-0 7 0 47872 0 0
+0 58 0 359040 0 0
 /navbar.html
 0 27 0 9689 0 0
 /fuchswesen/logo_text.png
 0 2 0 6919 0 0
+/fuchswesen/fox_pricelist.png
+0 31 0 1945270 0 0
 /imprint.html
-0 18 0 34385 0 1
+0 81 0 121971 0 5
 /favicon.ico
 0 3 0 2300 0 0
 /talk.html
-0 48 0 36088 0 0
+0 48 0 36088 2 1
 /fuchswesen/logo_head.jpg
 0 57 0 282194 0 0
 /fuchswesen/logo_schrift.png
-0 6 0 38372 0 0
+0 61 0 284466 0 0
+/fuchswesen/fox_imprint.png
+0 24 0 2992546 0 0
 /fuchswesen/jquery.min.js
-0 111 0 8825652 0 0
+0 149 0 11607651 0 0
 /pricelist.html
-0 98 0 150773 0 0
+0 147 0 211535 4 4
 /nav.html
-0 311 0 99969 2 5
+0 397 0 143749 3 7
 /about.html
-0 28 0 58506 0 0
+0 28 0 58506 1 0
 /fuchswesen/logo_schrift.jpg
 0 49 0 564912 0 0
 /fuchswesen/fuchsi.jpg
@@ -162,17 +172,20 @@
 66.249.78.23
 0 1 1 2192 1 1426013438
 /
+148.251.77.34
+0 3 2 4576 2 1427053104
+/
 66.249.78.30
 0 1 0 0 0 0
 -
 192.0.84.33
-0 4368 4363 0 1 1426477922
+0 6960 6955 0 1 1427255496
 /
 64.246.165.200
 0 2 1 2913 1 1425938846
 /
 192.99.40.137
-0 2 2 0 2 1426057539
+0 4 4 0 4 1427083925
 /
 91.121.179.219
 0 2 0 222 1 1425180728
@@ -181,23 +194,26 @@
 0 1 1 3131 1 1425210034
 /
 81.19.145.238
-0 5 2 0 5 1426386654
+0 8 2 0 8 1427175071
 /
+178.115.130.63
+0 20 18 1135760 1 1427022206
+/imprint.html
 92.63.110.237
 0 2 1 3341 1 1425343635
 /
 66.249.78.238
-0 13 12 176154 9 1426335307
+0 23 20 387937 15 1427116748
 /
 203.81.11.136
-0 169 0 35490 169 1426475595
+0 271 0 56910 271 1427252715
 /
 66.249.78.244
-0 8 5 13165 5 1426315979
+0 14 8 19714 8 1427072346
 /
 66.249.78.250
-0 8 5 11675 5 1426068738
-/
+0 10 6 13858 7 1427079245
+/pricelist.html
 202.46.49.195
 0 1 0 210 1 1425210034
 /
@@ -213,12 +229,18 @@
 186.247.178.113
 0 2 0 214 1 1425961452
 -
+178.113.202.42
+0 3 0 0 0 0
+-
 180.76.6.225
 0 1 0 0 1 1426323559
 /contact.html
 202.46.57.140
 0 1 0 0 1 1426036325
 -
+185.14.28.27
+0 1 1 2183 1 1427042230
+/
 188.23.205.164
 0 10 7 253035 1 1425827677
 -
@@ -226,14 +248,14 @@
 0 2 0 216 1 1425961502
 -
 180.76.6.16
-0 1 1 3131 1 1425727059
-/
+0 2 1 3131 2 1426891199
+-
 91.64.243.5
 0 14 11 304314 1 1426197003
 /nav.html
 180.76.6.29
-0 1 0 220 0 0
--
+0 2 0 220 1 1426894872
+/about.html
 186.215.247.150
 0 1 1 2183 1 1426263750
 /
@@ -246,21 +268,39 @@
 190.20.60.203
 0 2 1 3143 1 1425961454
 /
+188.165.15.21
+0 1 0 0 0 0
+-
+188.165.15.26
+0 1 0 0 0 0
+-
 173.70.141.168
 0 40 4 135208 1 1425381135
 -
 180.76.6.43
 0 1 0 0 1 1425503317
 /
+178.113.178.103
+0 1 0 0 0 0
+-
 180.76.6.44
 0 1 0 210 1 1425893852
 /
 180.76.6.45
 0 1 1 2913 1 1425938854
 /
+180.76.6.51
+0 1 0 0 1 1426678084
+-
 180.76.6.56
 0 1 1 2183 1 1426230607
 /
+180.76.6.57
+0 1 0 0 0 0
+-
+180.76.6.58
+0 1 1 2607 0 0
+-
 180.76.6.60
 0 1 0 210 1 1426148796
 /
@@ -268,14 +308,17 @@
 0 1 0 0 1 1426112887
 -
 62.218.164.126
-0 2147 955 20698821 12 1426176086
-/footer.html
-91.112.146.182
-0 14 11 304524 1 1426246803
+0 3053 1294 29617338 19 1427117739
+/nav.html
+46.207.150.126
+0 12 11 277386 1 1426776388
 /nav.html
 107.170.9.195
 0 4 1 2412 1 1426066879
 -
+91.112.146.182
+0 14 11 304524 1 1426246803
+/nav.html
 188.165.15.108
 0 2 0 0 0 0
 -
@@ -289,7 +332,7 @@
 0 1 1 3131 1 1425256933
 /
 84.115.138.215
-0 656 246 4321604 10 1426438834
+0 758 294 6644065 15 1427219075
 /
 91.200.12.92
 0 3 0 665 1 1425834127
@@ -300,6 +343,12 @@
 198.27.81.205
 0 1 1 2183 1 1426265551
 /
+193.81.251.57
+0 14 11 277176 1 1426888975
+/footer.html
+216.145.11.94
+0 2 1 2183 1 1427146744
+/
 183.89.224.50
 0 2 0 216 1 1425961453
 -
@@ -309,9 +358,15 @@
 122.248.245.244
 0 1 0 0 1 1425931669
 /
+54.186.208.190
+0 2 2 7030 1 1426835356
+/consulting.html
 66.249.69.130
 0 7 7 110901 6 1426150537
 /
+77.116.198.106
+0 33 11 41933 2 1426519140
+/imprint.html
 144.76.185.46
 0 12 10 146610 1 1426167638
 /nav.html
@@ -321,33 +376,63 @@
 207.46.13.75
 0 2 1 2183 1 1426336609
 /
+166.70.207.2
+0 1 1 2183 1 1427019190
+/
 54.217.201.243
 0 1 0 0 1 1425931667
 /
 66.249.67.50
-0 14 11 143162 10 1426432053
+0 22 17 166070 14 1427244450
 /
 66.249.67.100
 0 1 0 210 1 1425179630
 /
 66.249.67.58
-0 14 8 134751 6 1426359256
+0 23 15 387635 9 1427224082
 /
+157.55.39.2
+0 4 3 132077 0 0
+-
+157.55.39.6
+0 2 1 2183 1 1427096409
+/
+157.55.39.9
+0 1 0 0 0 0
+-
 66.249.67.66
-0 14 10 26960 9 1426407613
+0 22 16 347061 15 1427217598
 /
 157.55.39.193
 0 2 0 0 1 1426107784
 -
+23.97.228.192
+0 1 1 2183 1 1427117150
+/
 66.249.67.84
-0 1 0 220 0 0
+0 2 0 440 0 0
 -
+66.249.79.66
+0 2 1 2183 2 1427094328
+/
 178.113.197.159
 0 33 15 315963 2 1426275190
 /nav.html
+66.249.67.92
+0 1 0 210 1 1427217598
+/
 71.202.123.251
 0 18 15 315753 1 1426225273
 /imprint.html
+91.141.1.1
+0 7 7 255337 1 1427031788
+/
+144.76.64.115
+0 1 1 2183 1 1427032508
+/
+199.30.25.203
+0 10 10 274993 1 1426811992
+/nav.html
 162.243.70.44
 0 1 1 3131 1 1425594032
 /
@@ -372,6 +457,9 @@
 180.76.5.25
 0 1 0 0 1 1425466110
 /
+180.76.6.142
+0 1 1 117150 0 0
+-
 180.76.6.144
 0 1 1 2192 1 1426030281
 /
@@ -417,18 +505,27 @@
 180.76.5.81
 0 1 0 0 0 0
 -
+66.249.64.166
+0 1 1 2183 1 1426750726
+/
 180.76.5.166
 0 1 0 210 1 1426230607
 /
 207.46.13.106
-0 8 3 133022 0 0
+0 9 3 133022 0 0
 -
 180.76.5.173
 0 2 0 210 2 1425932233
 -
+180.76.5.176
+0 1 1 4847 1 1427057834
+/consulting.html
 178.112.14.45
 0 53 10 24826 1 1426176048
 /imprint.html
+54.211.126.58
+0 2 1 2393 1 1427197385
+/
 77.118.64.84
 0 16 6 8435 1 1426377442
 /pricelist.html
@@ -447,9 +544,18 @@
 180.76.5.190
 0 1 1 2183 1 1426435664
 /
+180.76.5.195
+0 1 0 0 1 1426548244
+/talk.html
 178.112.83.54
 0 72 35 694961 3 1426007896
 -
+5.79.68.161
+0 1 1 2183 1 1427194583
+/
+46.4.113.114
+0 2 1 2393 1 1426602839
+/
 178.113.170.164
 0 151 58 820506 4 1426173435
 /nav.html
@@ -457,16 +563,25 @@
 0 3 0 0 2 1426213744
 -
 66.249.64.58
-0 2 2 6262 2 1425348402
+0 16 13 31566 10 1426942955
+/nav.html
+157.55.39.218
+0 1 1 2183 1 1426811988
 /
 66.249.64.62
-0 7 4 11576 4 1426455759
+0 17 10 24674 11 1426858674
 /
 66.249.64.66
-0 7 5 14707 5 1426475816
+0 16 13 147138 12 1426881189
 /
 157.55.39.93
 0 2 1 3131 1 1425560556
+/
+193.28.204.4
+0 86 67 4648262 2 1426776383
+/pricelist.html
+180.76.4.193
+0 1 1 2183 1 1426535473
 /
 80.110.92.221
 0 26 15 315543 1 1426183896
@@ -477,80 +592,99 @@
 # End Of Table - sites (monthly)
 # -sites- (daily)
 192.0.84.33
-0 47 47 0 1 1426477922
+0 47 47 0 1 1427255496
 /
 203.81.11.136
-0 2 0 420 2 1426475595
+0 2 0 420 2 1427252715
 /
-66.249.64.66
-0 1 1 2183 1 1426475816
+66.249.67.50
+0 2 2 14152 1 1427244450
 /
+66.249.67.58
+0 2 1 8486 0 0
+-
 # End Of Table - sites (daily)
 # -referrers- 
 http://whois.domaintools.com/fuchswesen.com
-0 1
+0 2
 - (Direct Request)
-0 5562
+0 8606
 http://fuchswesen.com/
 0 4
+http://pizza-tycoon.de/
+0 5
+http://hundejo.com/
+0 1
 http://fuchswesen.com/wordpress
 0 2
 http://www.fuchswesen.com/contact.html
 1 146
+http://specialdessous.com/
+0 1
 http://www.fuchswesen.com/bootstrap/css/custom.css
-1 242
+1 259
 http://fuchswesen.com/blog
 0 2
+http://hvd-store.com/
+0 1
 http://www.fuchswesen.com/imprint.html
-1 16
+1 109
 http://www.fuchswesen.com/pricelist.html
-1 172
+1 255
 http://www.google.de/url
 0 1
 http://fuchswesen.com/wp
 0 2
 http://domainsigma.com/whois/www.fuchswesen.com
-1 2
+1 4
 http://www.fuchswesen.com/talk.html
 1 95
 http://www.fuchswesen.com/index.html
-1 848
+1 1137
 http://fuchswesen.com/drupal
 0 2
 http://www.imagin-abel.com
-0 5
+0 8
 http://www.fuchswesen.com/consulting.html
-1 177
+1 398
 http://fuchswesen.com/joomla
 0 2
 http://www.fuchswesen.com/
-1 888
+1 1136
 http://www.fuchswesen.com/about.html
 1 14
 http://www.imagin-abel.com/impressum/
-0 2
+0 3
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 11
 Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
-0 26
+0 33
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
-0 2
+0 4
 Mozilla/5.0 (Linux; Android 4.4.2; MediaPad X1 7.0 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2
-0 386
+0 434
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
 0 23
+Googlebot-Image/1.0
+0 4
 Wget/1.13.4 (linux-gnu)
 0 1
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
 0 10
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.2 Safari/534.34
 0 12
+CatchBot/2.0; +http://www.catchbot.com
+0 2
 Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
 0 7
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
+0 12
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
-0 240
+0 299
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
 0 11
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A4
@@ -562,11 +696,15 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
 0 2
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
-0 5
+0 8
+Mozilla/5.0 (Windows NT 6.1; rv:36.0) Gecko/20100101 Firefox/36.0
+0 16
 Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
-0 4
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 424
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 109
+0 181
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)
 0 1
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
@@ -577,36 +715,50 @@ Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1
 0 3
 Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.2) Firefox/3.5.2
 0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 27
 Mozilla/5.0 (compatible; DomainSigmaCrawler/0.1; +http://domainsigma.com/robot)
-0 2
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
+0 6
 panscient.com
 0 40
 Mozilla/5.0 (Windows NT 6.1; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
 0 16
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Inf
-0 169
+0 271
 jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)
-0 4370
+0 6962
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.648.133 Chrome/10
+0 1
 Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:36.0) Gecko/20100101 Firefox/36.0
+0 27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 16
 Mozilla/5.0 (compatible; spbot/4.4.2; +http://OpenLinkProfiler.org/bot )
 0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
 0 416
 Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
-0 5
+0 6
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-0 12
+0 20
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 3
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
-0 110
+0 124
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.5) Gecko/2008120122 Firefox/3.0.5
 0 8
 Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
-0 5
+0 10
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
 0 15
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-0 2031
+0 2493
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 1
 Mozilla/5.0 (compatible; MetaJobBot; http://www.metajob.at/crawler)
 0 6
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
@@ -615,8 +767,10 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
 0 46
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
 0 18
+python-requests/2.5.1 CPython/2.7.2 Windows/2008ServerR2
+0 1
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
-0 6
+0 70
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
 0 11
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
@@ -625,6 +779,10 @@ Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0 Paros/3.2.13
 0 2
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; MediaPad X1 7.0 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2
+0 14
 Mozilla/4.0 (compatible; Synapse)
 0 4
 # End Of Table - agents

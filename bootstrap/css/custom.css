@@ -130,6 +130,24 @@ width: 41.6667%;
 .copy-right {
 margin-left: 30px;
 }
+.fox-image-consulting {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8.3333%;
+  width: 83.3334%;
+}
+.fox-image-pricelist {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8.3333%;
+  width: 83.3334%;
+}
+.fox-image-imprint {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8.3333%;
+  width: 83.3334%;
+}
 }
 @media (max-width: 767px) {
 .index-content-heading{
@@ -146,5 +164,17 @@ margin-bottom: 100px;
 }
 #logo_normal{
   display:none; 
+}
+.fox-image-consulting {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.fox-image-pricelist {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.fox-image-imprint {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 }
